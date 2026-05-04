@@ -1,15 +1,25 @@
-## Hi there 👋
+# Yousef Noufal
+
+Junior Software Developer | Java | Backend Systems | Distributed Systems
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousef--noufal-blue)](https://linkedin.com/in/yousef-noufal)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## About Me
+
+Junior Software Developer with experience in Java-based systems, modular design, and Agile development. Skilled in applying design patterns to build secure and maintainable applications. I thrive in team environments and aim to grow as a software engineer.
+
+---
+
+## 🎓 Education
+
+**Kandidatutbildning i datavetenskap** | Göteborgs universitet  
+*August 2023 – May 2026*
+
+Three-year computer science program with focus on programming, mathematics, and formal methods. Specialized in backend systems, networking, and distributed systems.
+
+
 
